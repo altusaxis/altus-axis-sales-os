@@ -1,0 +1,21 @@
+{
+  "name": "altus-axis-sales-os",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@hello-pangea/dnd": "^16.5.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "lucide-react": "^0.300.0",
+    "next": "14.0.4",
+    "openai": "^4.24.0",
+    "papaparse": "^5.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.10.0"
+  }
+}
